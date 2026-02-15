@@ -1,11 +1,9 @@
 # Goals and priorities
 
-<!-- Replace these with your actual goals — both professional and personal -->
-
 ## Professional goals
-1. [Your first professional goal]
-2. [Your second professional goal]
+1. Find 1 workflow I can automate
 
 ## Personal goals
-1. [Your first personal goal]
-2. [Your second personal goal]
+1. Keep in touch with friends
+2. Build an AI product this month
+3. Plan my wedding (ongoing for next few months)
